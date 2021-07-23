@@ -5,15 +5,18 @@ I'm not a developer yet, but I'm studying and preparing myself to be one. I have
 
 ## Contacts
 - Email: halexx002@gmail.com
-- LinkedIn: https://www.linkedin.com/in/h%C3%A1lex-viotto-gomes-5375771a0/
+- LinkedIn: https://www.linkedin.com/in/halexviottogomes/
 
 ## Working at
 I don't have a job at moment
 
 ## Studying
 - Javascript
+- Typescript
 - HTML
 - CSS
+- Git
+- TDD
 - Nodejs
 - Expressjs
 - Mongo DB
@@ -30,5 +33,3 @@ Anything, since I can help
 - Javascript
 - Web Development
 - Back-end
-- Front-end
-- Stuffs related to Computer Science
