@@ -5,7 +5,7 @@ I'm not a developer yet, but I'm studying and preparing myself to be one. I have
 
 ## Contacts
 - Email: halexx002@gmail.com
-- LinkedIn: https://www.linkedin.com/in/halexviottogomes/
+- LinkedIn: https://www.linkedin.com/in/halexv/
 
 ## Working at
 I don't have a job at moment
